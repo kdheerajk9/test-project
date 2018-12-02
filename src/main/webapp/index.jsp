@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="red">
+<body bgcolor="blue">
 <h1> Hello Upshot AWS Students</h1>
 </body>
 </html>
